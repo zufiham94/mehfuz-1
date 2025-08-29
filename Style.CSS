@@ -5,7 +5,7 @@
 .header {
     min-height: 100vh;
     width: 100;
-    background-image: linear-gradient( rgba(4, 30, 12, 0.7), rgba(4, 30, 12, 0.7)),url(images/banner.jpg);
+    background-image: linear-gradient( rgba(4, 30, 12, 0.7), rgba(4, 30, 12, 0.7)),url(banner.jpg);
     background-position: center;
     background-size: cover;
     position:relative;
@@ -244,7 +244,7 @@ h2{
     width: 80%;
     margin: 100px auto;
     padding-top: 100px;
-    background-image: linear-gradient(rgba(0,0,0,0.7), rgba(0,0,0,0.7)),url(images/banner.jpg);
+    background-image: linear-gradient(rgba(0,0,0,0.7), rgba(0,0,0,0.7)),url(banner.jpg);
     background-position: center;
     background-size: cover;
     border-radius: 10px;
@@ -358,7 +358,7 @@ h2{
 .sub-header{
     height: 50vh;
     width: 100%;
-    background-image: linear-gradient( rgba(4, 30, 12, 0.7), rgba(4, 9, 30, 0.7)),url(images/banner.jpg);
+    background-image: linear-gradient( rgba(4, 30, 12, 0.7), rgba(4, 9, 30, 0.7)),url(banner.jpg);
     background-position: center;
     background-size: cover;
     position:relative;
@@ -525,4 +525,5 @@ h2{
 
 
 /* -----------------------Courses Ends here------------------------------------- */
+
 
